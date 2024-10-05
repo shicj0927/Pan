@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="msAU73H-JyNjL9Z8YoWB">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xSUPikREnTMge6ByH-9U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSUPikREnTMge6ByH-9U-1" target="xSUPikREnTMge6ByH-9U-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-1" value="test" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="620" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-2" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="580" width="140" height="180" as="geometry">
+            <mxRectangle x="450" y="610" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-3" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xSUPikREnTMge6ByH-9U-2">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-15" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="xSUPikREnTMge6ByH-9U-2">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-4" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xSUPikREnTMge6ByH-9U-2">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-5" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xSUPikREnTMge6ByH-9U-2">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-7" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xSUPikREnTMge6ByH-9U-2">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSUPikREnTMge6ByH-9U-8" target="xSUPikREnTMge6ByH-9U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-8" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-10" value="" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="xSUPikREnTMge6ByH-9U-8">
+          <mxGeometry x="10" y="30" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-11" value="Button" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="xSUPikREnTMge6ByH-9U-8">
+          <mxGeometry x="90" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-12" value="" style="shape=mxgraph.arrows2.wedgeArrowDashed2;html=1;bendable=0;startWidth=50;stepSize=15;rounded=0;" edge="1" parent="xSUPikREnTMge6ByH-9U-8">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint y="140" as="sourcePoint" />
+            <mxPoint x="140" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSUPikREnTMge6ByH-9U-13" target="xSUPikREnTMge6ByH-9U-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="346" y="750" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-16" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="960" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.84;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSUPikREnTMge6ByH-9U-17" target="xSUPikREnTMge6ByH-9U-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-17" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="940" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-18" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="470" y="960" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-20" value="" style="shape=mxgraph.signs.animals.snake;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="306" y="1030" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.02;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xSUPikREnTMge6ByH-9U-20" target="xSUPikREnTMge6ByH-9U-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;entryX=0.95;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xSUPikREnTMge6ByH-9U-18" target="xSUPikREnTMge6ByH-9U-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="545" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSUPikREnTMge6ByH-9U-25" value="" style="shape=mxgraph.signs.animals.dog_on_leash;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="459" y="869" width="97" height="91" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
